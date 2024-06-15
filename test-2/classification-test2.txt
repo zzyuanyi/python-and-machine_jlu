@@ -1,0 +1,6 @@
+1.class:people with mutations in specific genes versus people without mutations in specific genes
+Sample:Patients with lung cancer.Features:(1)sex, (2)dietary habits, (3)data from the blood medical certificate
+Numerical expression of feature correspondences:(1)0/1 ;(2)(numbers for different habits);(3) a tabel for levels of blood components
+2.people with a history of smoking versus people without a history of smoking
+Sample:Patients with lung cancer.Features:(1)sex, (2)medical imaging pictures of the lungs, (3)blood test report data
+Numerical expression of feature correspondences:(1)0/1 ;(2)pixel data of the photo ;(3)a tabel for levels of blood components
