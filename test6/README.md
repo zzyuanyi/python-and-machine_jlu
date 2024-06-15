@@ -1,0 +1,1 @@
+The problem is to try different machine learning models (e.g. SVM, Nbayes, KNN) to learn and predict the same type of events and to obtain the relevant metrics: Sn, Sp, Acc, Auc, Mcc. The following versions of the corresponding libraries are used: numpy: 1.24.3; pandas: 1.5.3; sklearn: 1.3.0; scipy. 1.11.3
